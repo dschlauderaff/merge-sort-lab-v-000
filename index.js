@@ -16,6 +16,8 @@ function merge(firstHalf, secondHalf) {
   let sorted = []
   let currentMin
   while(firstHalf.length != 0 && secondHalf.length != 0) {
-    let currentMin = findMinAndRemoveSorted(firstHalf, secondHalf)
+    let firtHalf) < findMinAndRemoveSorted(secondHalf)) {
+      
+    }
   }
 }
