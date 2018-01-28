@@ -13,7 +13,8 @@ function mergeSort(array) {
   if (array.length < 2) {
     return array
   } else {
-  return merge(mergeSort(firstHalf), mergeSort(secondHalf))
+   merge(mergeSort(firstHalf), mergeSort(secondHalf))
+  }
 }
 
 function merge(firstHalf, secondHalf) {
