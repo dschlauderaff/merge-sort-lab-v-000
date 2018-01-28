@@ -1,7 +1,7 @@
 
 function findMinAndRemoveSorted(array) {
   mergeSort(array)
-  
+  array.shift(0)
   
 }
 
