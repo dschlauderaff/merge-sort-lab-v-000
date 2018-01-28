@@ -1,4 +1,4 @@
 
-def findMinAndRemoveSorted {
+function findMinAndRemoveSorted {
   
 }
