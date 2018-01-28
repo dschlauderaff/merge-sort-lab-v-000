@@ -20,7 +20,7 @@ function mergeSort(array) {
 function merge(firstHalf, secondHalf) {
   let sorted = []
   let currentMin
-  while(firstHalf.length != 0 && secondHalf.length != 0) {
+  while(firstHalf.length !== 0 && secondHalf.length !== 0) {
     let first = firstHalf[0]
     let second = secondHalf[0]
     
